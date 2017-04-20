@@ -1,91 +1,93 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Gabriel Aumala's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Gabriel Aumala
+Software developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="gabriel@criptext.com">gabriel@criptext.com</a>
+| <a href="https://github.com/GAumala">My GitHub page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Part-time Android developer at [Criptext](https://criptext.com/) and student at
+[ESPOL](http://www.espol.edu.ec/), currently on my last year of college.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Android, Kotlin, Node.js, React.js, C, Linux, git.
 
+### Interests
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Haskell, Go, microcontrollers.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2011 - now`
+__Escuela Superior Politécnica del Litoral (ESPOL).__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Projects
 
-- Sizar
+`2014` 
+[SF4 Notes](https://play.google.com/store/apps/details?id=com.framedata.faviewer) 
+An app to help Street Fighter players.
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2016`
+[ClockPuzzle](https://github.com/GAumala/ClockPuzzle) 
+C Program that solves clock puzzles using a depth-first algorithm.
 
-- Fellow
+`2016`
+[MediaServer](https://github.com/GAumala/MediaServer)
+Go Program that serves videos over my local network.
 
+`2016`
+[lspad](https://github.com/GAumala/lspad)
+Command line utility to display all connected game pads in Linux.
 
+`2016`
+[Criptext's Android Messaging
+  SDK](https://github.com/Criptext/Monkey-Chat-Android)
+At Criptext I worked on an SDK to easily integrate messaging into any app.
 
-## Awards
+`2017`
+[nyaa.hs](https://github.com/GAumala/nyaa.hs)
+Haskell program that scraps websites to search for torrent files.
 
-`2012`
-President, *Royal Society*, London, UK
+`2017`
+[Facturacion](https://github.com/GAumala/Facturacion)
+Invoice software for small businesses using React.js, Node.js and SQLite3.
 
-Associate, *French Academy of Science*, Paris, France
+## Open Source 
 
+`2016`
+[node-directory-tree](https://github.com/mihneadb/node-directory-tree/pull/14)
+Fixed a bug where the library would crash if it tried to scan a directory
+without the necessary permissions.
 
+`2016`
+[Kluent](https://github.com/MarkusAmshove/Kluent/pull/16)
+Added a few assertions to the library.
 
-## Publications
+`2016`
+[create-react-app](https://github.com/facebookincubator/create-react-app/pull/1148)
+Added the option to configure which Browser to open when the dev server starts.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+`2017`
+[create-react-app](https://github.com/facebookincubator/create-react-app/pull/1301)
+Fixed a bug in which the host specified by user was being ignored.
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2014`
+__Android developer__, Criptext
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2017 -->
 
 
