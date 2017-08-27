@@ -13,7 +13,7 @@ Software developer
 
 ## Currently
 
-Part-time Android developer at [Criptext](https://criptext.com/) and student at
+Full-time Android developer at [Criptext](https://criptext.com/) and student at
 [ESPOL](http://www.espol.edu.ec/), currently on my last year of college.
 
 ### Specialized in
@@ -22,7 +22,7 @@ Android, Kotlin, Node.js, React.js, C, Linux, git.
 
 ### Interests
 
-Haskell, Go, microcontrollers.
+Web development, functional programming, microcontrollers.
 
 
 ## Education
@@ -37,10 +37,6 @@ __Escuela Superior Politécnica del Litoral (ESPOL).__
 An app to help Street Fighter players.
 
 `2016`
-[ClockPuzzle](https://github.com/GAumala/ClockPuzzle) 
-C Program that solves clock puzzles using a depth-first algorithm.
-
-`2016`
 [MediaServer](https://github.com/GAumala/MediaServer)
 Go Program that serves videos over my local network.
 
@@ -48,18 +44,21 @@ Go Program that serves videos over my local network.
 [lspad](https://github.com/GAumala/lspad)
 Command line utility to display all connected game pads in Linux.
 
-`2016`
-[Criptext's Android Messaging
-  SDK](https://github.com/Criptext/Monkey-Chat-Android)
-At Criptext I worked on an SDK to easily integrate messaging into any app.
-
 `2017`
-[nyaa.hs](https://github.com/GAumala/nyaa.hs)
-Haskell program that scraps websites to search for torrent files.
+[Criptext](https://play.google.com/store/apps/details?id=com.criptext.secureemail)
+At Criptext I am the main developer for an e-mail client for android.
 
 `2017`
 [Facturacion](https://github.com/GAumala/Facturacion)
 Invoice software for small businesses using React.js, Node.js and SQLite3.
+
+`2017`
+[simple-commonmark-markdown](https://github.com/GAumala/simple-commonmark-react)
+A library for rendering markdown with React using the CommonMark parser
+
+`2017`
+[gulp-prettier-plugin](https://github.com/GAumala/gulp-prettier-plugin)
+Gulp plugin to automate code formatting with prettier
 
 ## Open Source 
 
@@ -79,6 +78,18 @@ Added the option to configure which Browser to open when the dev server starts.
 `2017`
 [create-react-app](https://github.com/facebookincubator/create-react-app/pull/1301)
 Fixed a bug in which the host specified by user was being ignored.
+
+`2017`
+[yarn](https://github.com/yarnpkg/yarn/pull/3538)
+Fixed a bug in which yarn's pack command was not ignoring files correctly.
+
+`2017`
+[yarn](https://github.com/yarnpkg/yarn/pull/3789)
+Fixed a bug in which yarn's run command was not forwarding SIGTERM to its child processes.
+
+`2017`
+[material-ui](https://github.com/callemall/material-ui/pull/7484)
+Fixed a bug in which the Table component was not rendering properly in Firefox.
 
 ## Occupation
 
