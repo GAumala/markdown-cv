@@ -11,24 +11,36 @@ Software developer
 </div>
 
 
-## Currently
+### Currently
 
 Full-time software developer at [Criptext](https://criptext.com/) and student at
-[ESPOL](http://www.espol.edu.ec/), currently on my last year of college.
+[ESPOL](http://www.espol.edu.ec/), completed all courses and will soon graduate.
 
-### Specialized in
+### Skills
 
-Android, Kotlin, Node.js, React.js, C, Linux, git.
+**Android** - Kotlin, JUnit, SQLite, MvC architechtures.<br>
+**Front-end development** - HTML, CSS, JavaScript, ES6+, Gulp, React.js, Jest, Webpack, Eslint, Elm.<br>
+**Back-end development** - Node.js, MySQL, MariaDB, TypeScript, Go, Haskell, Stack, HSpec, Linux, bash.<br>
+**Electronics** - Arduino, Raspberry Pi, C, Python, MQTT. 
+
+### Languages
+
+Spanish (Native)<br>
+English (Fluent)<br> 
+Japanese (JLPT N3)
 
 ### Interests
 
-Web development, functional programming, microcontrollers.
+Web development, functional programming, open source and collaboration,
+electronics, Linguistics.
 
 
 ## Education
 
 `2011 - now`
 __Escuela Superior Politécnica del Litoral (ESPOL).__
+
+
 
 ## Projects
 
@@ -66,7 +78,12 @@ Telegram bot written in Haskell that translates Japanese words to English.
 
 `2017`
 **[criptext-js-tools](https://github.com/Criptext/criptext-js-tools)**
-Zero configuration tool for formatting, linting and testing JavaScript code
+Zero configuration tool for formatting, linting and testing JavaScript code.
+
+`2018`
+**[Geekdom.ec](https://geekdom.ec)**
+Implementation of a local bar's website and their customer reward points system.
+
 
 ## Open Source 
 
@@ -102,14 +119,17 @@ Added an option to sort displayed files by name.
 **[yarn](https://github.com/yarnpkg/yarn/pull/5213)**
 Show a better error message when a package is not found.
 
+
 ## Occupation
 
-`2014`
-__Software developer__, Criptext
+`2014 - now`
+**Software Developer [Criptext](https://criptext.com)**<br>
+Android app development in Kotlin & Java.<br>
+Backend development in Node.js.
 
 
 <!-- ### Footer
 
-Last updated: February 2018 -->
+Last updated: March 2018 -->
 
 
