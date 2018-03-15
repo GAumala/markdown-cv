@@ -44,10 +44,6 @@ __Escuela Superior Politécnica del Litoral (ESPOL).__
 
 ## Projects
 
-`2014` 
-**[SF4 Notes](https://play.google.com/store/apps/details?id=com.framedata.faviewer)** 
-An app to help Street Fighter players.
-
 `2016`
 **[MediaServer](https://github.com/GAumala/MediaServer)**
 Go Program that serves videos over my local network.
@@ -59,6 +55,10 @@ Command line utility to display all connected game pads in Linux.
 `2017`
 **[Facturacion](https://github.com/GAumala/Facturacion)**
 Invoice software for small businesses using React.js, Node.js and SQLite3.
+
+`2017`
+**[Criptext Secure Email](https://play.google.com/store/apps/details?id=com.criptext.secureemail)**
+Android email client for Gmail.
 
 `2017`
 **[simple-commonmark-markdown](https://github.com/GAumala/simple-commonmark-react)**
@@ -125,7 +125,7 @@ Show a better error message when a package is not found.
 `2014 - now`
 **Software Developer [Criptext](https://criptext.com)**<br>
 Android app development in Kotlin & Java.<br>
-Backend development in Node.js.
+Backend development in Node.js and MariaDB.
 
 
 <!-- ### Footer
