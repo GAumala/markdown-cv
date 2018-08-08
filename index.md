@@ -13,14 +13,13 @@ Software developer
 
 ### Currently
 
-Full-time software developer at [Criptext](https://criptext.com/) and student at
-[ESPOL](http://www.espol.edu.ec/), completed all courses and will soon graduate.
+Full-time software developer at [Criptext](https://criptext.com/).
 
 ### Skills
 
-**Android** - Kotlin, JUnit, SQLite, MvC architechtures.<br>
+**Android** - Kotlin, Java, JUnit, SQLite, MvC architechtures.<br>
 **Front-end development** - HTML, CSS, JavaScript, ES6+, Gulp, React.js, Jest, Webpack, Eslint, Elm.<br>
-**Back-end development** - Node.js, MySQL, MariaDB, TypeScript, Go, Haskell, Stack, HSpec, Linux, bash.<br>
+**Back-end development** - Node.js, MySQL, MariaDB, TypeScript, Go, Haskell, Docker, ZeroMQ, Linux, bash.<br>
 **Electronics** - Arduino, Raspberry Pi, C, Python, MQTT. 
 
 ### Languages
@@ -37,7 +36,7 @@ electronics, Linguistics.
 
 ## Education
 
-`2011 - now`
+`2011 - 2018`
 __Escuela Superior Politécnica del Litoral (ESPOL).__
 
 
@@ -46,15 +45,15 @@ __Escuela Superior Politécnica del Litoral (ESPOL).__
 
 `2016`
 **[MediaServer](https://github.com/GAumala/MediaServer)**
-Go Program that serves videos over my local network.
+Go Program that serves videos over my local network
 
 `2016`
 **[lspad](https://github.com/GAumala/lspad)**
-Command line utility to display all connected game pads in Linux.
+Command line utility to display all connected game pads in Linux
 
 `2017`
 **[Facturacion](https://github.com/GAumala/Facturacion)**
-Invoice software for small businesses using React.js, Node.js and SQLite3.
+Invoice software for small businesses using React.js, Node.js and SQLite3
 
 `2017`
 **[Criptext Secure Email](https://play.google.com/store/apps/details?id=com.criptext.secureemail)**
@@ -74,22 +73,18 @@ Gulp plugin to automate code formatting with prettier
 
 `2017`
 **[TranslateJPBot](https://github.com/GAumala/TranslateJPBot)**
-Telegram bot written in Haskell that translates Japanese words to English.
+Telegram bot written in Haskell that translates Japanese words to English
 
 `2017`
 **[criptext-js-tools](https://github.com/Criptext/criptext-js-tools)**
-Zero configuration tool for formatting, linting and testing JavaScript code.
+Zero configuration tool for formatting, linting and testing JavaScript code
 
 `2018`
 **[Geekdom.ec](https://geekdom.ec)**
-Implementation of a local bar's website and their customer reward points system.
+Implementation of a local bar's website and their customer reward points system
 
 
 ## Open Source 
-
-`2016`
-**[Kluent](https://github.com/MarkusAmshove/Kluent/pull/16)**
-Added a few assertions to the library.
 
 `2016`
 **[create-react-app](https://github.com/facebookincubator/create-react-app/pull/1148)**
@@ -116,20 +111,36 @@ Fixed a bug that made the program crash when initializing in a machine without n
 Added an option to sort displayed files by name.
 
 `2018`
+**[yarn website](https://github.com/yarnpkg/website/pull/755)**
+Documented potential problems of publishing packages inside workspaces.
+
+`2018`
 **[yarn](https://github.com/yarnpkg/yarn/pull/5213)**
-Show a better error message when a package is not found.
+Added a better error message when a package is not found.
+
+`2018`
+**[open-lambda](https://github.com/open-lambda/open-lambda/pull/41)**
+Rewrote the integration test suite in Python for better UX and mantainability
+
+`2018`
+**[wc2018](https://github.com/cedricblondeau/world-cup-2018-cli-dashboard/issues/28)**
+Added the option to send desktop notifications for important events.
 
 
 ## Occupation
 
 `2014 - now`
 **Software Developer [Criptext](https://criptext.com)**<br>
-Android app development in Kotlin & Java.<br>
-Backend development in Node.js and MariaDB.
+I started working as an Android app developer using Kotlin & Java, designing the
+MvC app architecture.<br>
+Nowadays I mostly mantain the HTTP API that powers all of our clients using 
+Node.js, Go and MariaDB.<br>
+I am also responsible for reviewing the code submitted by our Android, Electron
+, and backend developers, making sure that it is mantainable and well tested.
 
 
 <!-- ### Footer
 
-Last updated: March 2018 -->
+Last updated: August 2018 -->
 
 
