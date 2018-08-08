@@ -6,7 +6,7 @@ title: Gabriel Aumala's CV
 Software developer
 
 <div id="webaddress">
-<a href="gabriel@criptext.com">gabriel@criptext.com</a>
+<a href="mailto:gabriel@criptext.com">gabriel@criptext.com</a>
 | <a href="https://github.com/GAumala">My GitHub page</a>
 </div>
 
