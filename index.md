@@ -21,7 +21,7 @@ Full-time android developer at [Technisys](https://www.technisys.com/).
 **Android** - Kotlin, Java, JUnit, SQLite, Architecture Components.<br>
 **Front-end development** - HTML, CSS, JavaScript, ES6+, Gulp, React.js, Jest, Webpack, Eslint, Elm.<br>
 **Back-end development** - Node.js, MySQL, Redis, TypeScript, Go, Haskell, Docker, ZeroMQ, Linux, bash.<br>
-**Electronics** - Arduino, Raspberry Pi, C, Python, MQTT. 
+**Electronics** - Arduino, Raspberry Pi, C, Python, MQTT.<br>
 **Security** - Signal Protocol, AES, RSA. 
 
 ### Languages
