@@ -14,11 +14,11 @@ Software developer
 
 ### Currently
 
-Full-time software developer at [Criptext](https://criptext.com/).
+Full-time android developer at [Technisys](https://www.technisys.com/).
 
 ### Skills
 
-**Android** - Kotlin, Java, JUnit, SQLite, MvC architechtures.<br>
+**Android** - Kotlin, Java, JUnit, SQLite, Architecture Components.<br>
 **Front-end development** - HTML, CSS, JavaScript, ES6+, Gulp, React.js, Jest, Webpack, Eslint, Elm.<br>
 **Back-end development** - Node.js, MySQL, Redis, TypeScript, Go, Haskell, Docker, ZeroMQ, Linux, bash.<br>
 **Electronics** - Arduino, Raspberry Pi, C, Python, MQTT. 
@@ -86,7 +86,7 @@ Implementation of a local bar's website and their customer reward points system
 
 `2018`
 **[KotlinSnapshot](https://github.com/Karumi/KotlinSnapshot)**
-Snapshot Testing framework for Kotlin, no longer mantained by me
+Snapshot Testing framework for Kotlin, no longer maintained by me
 
 
 ## Open Source 
@@ -117,7 +117,7 @@ Added a better error message when a package is not found.
 
 `2018`
 **[open-lambda](https://github.com/open-lambda/open-lambda/pull/41)**
-Rewrote the integration test suite in Python for better UX and mantainability.
+Rewrote the integration test suite in Python for better UX and maintainability.
 
 `2018`
 **[wc2018](https://github.com/cedricblondeau/world-cup-2018-cli-dashboard/issues/28)**
@@ -134,16 +134,21 @@ Fixed a bug when parsing dates in file paths.
 
 ## Occupation
 
-`2014 - now`
+`2014 - 2018`
 **Security Engineer [Criptext](https://criptext.com)**<br>
 I started working as an Android app developer using Kotlin & Java, designing the
 MvC app architecture.<br>
-Nowadays I mostly mantain the HTTP API that powers all of our clients using 
+in 2018 I mostly maintained the HTTP API that powers all of Criptext clients using 
 Node.js, Go and MariaDB.<br>
-I am also responsible for reviewing the code submitted by our Android, Electron
-, and backend developers, making sure that it is mantainable and well tested.
+I was also responsible for reviewing the code submitted by Android, Electron
+, and backend developers, making sure that it remained maintainable and well tested.
+
+`2018 - now`
+** Android developer [Technisys](https://www.technisys.com/)
+I develop banking apps for android phones using Java with the new android 
+Jetpack libraries made by Google to ensure they are performant and maintainable.
 
 <!-- ### Footer
-Last updated: October 2018 -->
+Last updated: January 2019 -->
 
 
