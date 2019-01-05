@@ -22,6 +22,7 @@ Full-time android developer at [Technisys](https://www.technisys.com/).
 **Front-end development** - HTML, CSS, JavaScript, ES6+, Gulp, React.js, Jest, Webpack, Eslint, Elm.<br>
 **Back-end development** - Node.js, MySQL, Redis, TypeScript, Go, Haskell, Docker, ZeroMQ, Linux, bash.<br>
 **Electronics** - Arduino, Raspberry Pi, C, Python, MQTT. 
+**Security** - Signal Protocol, AES, RSA. 
 
 ### Languages
 
@@ -139,14 +140,17 @@ Fixed a bug when parsing dates in file paths.
 I started working as an Android app developer using Kotlin & Java, designing the
 MvC app architecture.<br>
 in 2018 I mostly maintained the HTTP API that powers all of Criptext clients using 
-Node.js, Go and MariaDB.<br>
+Node.js, Go and MariaDB. I designed all the endpoints that clients use to communicate 
+securely using the [Signal Protocol](https://en.wikipedia.org/wiki/Signal_Protocol). 
+I implemented the Signal Protocol in Criptext's Android client using Open 
+Whisper System's [Java library](https://github.com/signalapp/libsignal-protocol-java).<br>
 I was also responsible for reviewing the code submitted by Android, Electron
 , and backend developers, making sure that it remained maintainable and well tested.
 
 `2018 - now`
 ** Android developer [Technisys](https://www.technisys.com/)
 I develop banking apps for android phones using Java with the new android 
-Jetpack libraries made by Google to ensure they are performant and maintainable.
+Jetpack libraries made by Google to ensure great user experience.
 
 <!-- ### Footer
 Last updated: January 2019 -->
