@@ -144,11 +144,11 @@ Node.js, Go and MariaDB. I designed all the endpoints that clients use to commun
 securely using the [Signal Protocol](https://en.wikipedia.org/wiki/Signal_Protocol). 
 I implemented the Signal Protocol in Criptext's Android client using Open 
 Whisper System's [Java library](https://github.com/signalapp/libsignal-protocol-java).<br>
-I was also responsible for reviewing the code submitted by Android, Electron
-, and backend developers, making sure that it remained maintainable and well tested.
+I was also responsible for reviewing the code submitted by Android, Electron, 
+and backend developers, making sure that it remained maintainable and well tested.
 
 `2018 - now`
-** Android developer [Technisys](https://www.technisys.com/)
+**Android developer [Technisys](https://www.technisys.com/)**<br>
 I develop banking apps for android phones using Java with the new android 
 Jetpack libraries made by Google to ensure great user experience.
 
