@@ -82,13 +82,12 @@ Telegram bot written in Haskell that translates Japanese words to English
 Zero configuration tool for formatting, linting and testing JavaScript code
 
 `2018`
-**[Geekdom.ec](https://geekdom.ec)**
-Implementation of a local bar's website and their customer reward points system
-
-`2018`
 **[KotlinSnapshot](https://github.com/Karumi/KotlinSnapshot)**
 Snapshot Testing framework for Kotlin, no longer maintained by me
 
+`2018`
+**[Blog](https://github.com/GAumala/Blog)**
+My personal blog (https://gaumala.com)
 
 ## Open Source 
 
