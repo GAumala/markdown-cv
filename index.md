@@ -87,7 +87,7 @@ Snapshot Testing framework for Kotlin, no longer maintained by me
 
 `2018`
 **[Blog](https://github.com/GAumala/Blog)**
-My personal blog (https://gaumala.com)
+My personal blog ([https://gaumala.com](https://gaumala.com))
 
 ## Open Source 
 
