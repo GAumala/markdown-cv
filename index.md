@@ -58,10 +58,6 @@ Go Program that serves videos over my local network
 Invoice software for small businesses using React.js, Node.js and SQLite3
 
 `2017`
-**[Criptext Secure Email](https://play.google.com/store/apps/details?id=com.criptext.secureemail)**
-Android email client for Gmail.
-
-`2017`
 **[simple-commonmark-markdown](https://github.com/GAumala/simple-commonmark-react)**
 A library for rendering markdown with React using the CommonMark parser
 
@@ -152,6 +148,6 @@ I develop banking apps for android phones using Java with the new android
 Jetpack libraries made by Google to ensure great user experience.
 
 <!-- ### Footer
-Last updated: January 2019 -->
+Last updated: February 2019 -->
 
 
