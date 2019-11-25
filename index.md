@@ -73,10 +73,6 @@ Gulp plugin to automate code formatting with prettier
 **[TranslateJPBot](https://github.com/GAumala/TranslateJPBot)**
 Telegram bot written in Haskell that translates Japanese words to English
 
-`2017`
-**[criptext-js-tools](https://github.com/Criptext/criptext-js-tools)**
-Zero configuration tool for formatting, linting and testing JavaScript code
-
 `2018`
 **[KotlinSnapshot](https://github.com/Karumi/KotlinSnapshot)**
 Snapshot Testing framework for Kotlin, no longer maintained by me
@@ -84,6 +80,10 @@ Snapshot Testing framework for Kotlin, no longer maintained by me
 `2018`
 **[Blog](https://github.com/GAumala/Blog)**
 My personal blog ([https://gaumala.com](https://gaumala.com))
+
+`2019`
+**[mvi-android](https://github.com/GAumala/mvi-android)**
+Model View Intent for native android apps using architecture components
 
 ## Open Source 
 
@@ -143,11 +143,10 @@ I was also responsible for reviewing the code submitted by Android, Electron,
 and backend developers, making sure that it remained maintainable and well tested.
 
 `2018 - now`
-**Android developer [Technisys](https://www.technisys.com/)**<br>
-I develop banking apps for android phones using Java with the new android 
-Jetpack libraries made by Google to ensure great user experience.
-
+**Lead Android developer [Technisys](https://www.technisys.com/)**<br>
+I develop banking apps for Android phones using [my own implementation](https://github.com/GAumala/mvi-android) of the MVI architecture in Java. Most of my time is spent writing code, but I also have to train the newer collaborators in the Android team by reviewing their pull requests, [writing articles](https://gaumala.com/posts/2019-04-30-writing-mvi-apps-in-android.html) and [giving talks](https://www.meetup.com/Guayaquil-Developers/events/262094535/).<br>
+Currently, I'm in charge of the new mobile app for one of the biggest banks in Argentina. 
 <!-- ### Footer
-Last updated: February 2019 -->
+Last updated: November 2019 -->
 
 
