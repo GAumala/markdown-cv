@@ -143,7 +143,7 @@ I was also responsible for reviewing the code submitted by Android, Electron,
 and backend developers, making sure that it remained maintainable and well tested.
 
 `2018 - now`
-**Lead Android developer [Technisys](https://www.technisys.com/)**<br>
+**Lead Android Developer [Technisys](https://www.technisys.com/)**<br>
 I develop banking apps for Android phones using [my own implementation](https://github.com/GAumala/mvi-android) of the MVI architecture in Java. Most of my time is spent writing code, but I also have to train the newer collaborators in the Android team by reviewing their pull requests, [writing articles](https://gaumala.com/posts/2019-04-30-writing-mvi-apps-in-android.html) and [giving talks](https://www.meetup.com/Guayaquil-Developers/events/262094535/).<br>
 Currently, I'm in charge of the new mobile app for one of the biggest banks in Argentina. 
 <!-- ### Footer
