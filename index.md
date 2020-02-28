@@ -6,7 +6,7 @@ title: Gabriel Aumala's CV
 Software developer
 
 <div id="webaddress">
-<a href="mailto:gabriel@criptext.com">gabriel@criptext.com</a>
+<a href="mailto:gaumala@protonmail.com">gaumala@protonmail.com</a>
 | <a href="https://github.com/GAumala">GitHub Profile</a>
 | <a href="https://gaumala.com">Blog</a>
 </div>
@@ -14,7 +14,7 @@ Software developer
 
 ### Currently
 
-Full-time android developer at [Technisys](https://www.technisys.com/).
+Full-time Android developer at [Technisys](https://www.technisys.com/).
 
 ### Skills
 
@@ -22,7 +22,7 @@ Full-time android developer at [Technisys](https://www.technisys.com/).
 **Front-end development** - HTML, CSS, JavaScript, ES6+, Gulp, React.js, Jest, Webpack, Eslint, Elm.<br>
 **Back-end development** - Node.js, MySQL, Redis, TypeScript, Go, Haskell, Docker, ZeroMQ, Linux, bash.<br>
 **Electronics** - Arduino, Raspberry Pi, C, Python, MQTT.<br>
-**Security** - Signal Protocol, AES, RSA. 
+**Security** - Signal Protocol, AES, RSA, Certificate Pinning. 
 
 ### Languages
 
@@ -127,6 +127,10 @@ Added a warning about the dev server in the documentation.
 **[hakyll](https://github.com/jaspervdj/hakyll/pull/666)**
 Fixed a bug when parsing dates in file paths.
 
+## Publications 
+
+`2019`
+ G. Aumala, E. Boza, L. Aviles, G. Totoy and C. Abad, "Beyond Load Balancing:Package-Aware Scheduling for Serverless Platforms" in [CCGrid2019](https://www.ccgrid2019.org/)
 
 ## Occupation
 
@@ -147,6 +151,6 @@ and backend developers, making sure that it remained maintainable and well teste
 I develop banking apps for Android phones using [my own implementation](https://github.com/GAumala/mvi-android) of the MVI architecture in Java. Most of my time is spent writing code, but I also have to train the newer collaborators in the Android team by reviewing their pull requests, [writing articles](https://gaumala.com/posts/2019-04-30-writing-mvi-apps-in-android.html) and [giving talks](https://www.meetup.com/Guayaquil-Developers/events/262094535/).<br>
 Currently, I'm in charge of the new mobile app for one of the biggest banks in Argentina. 
 <!-- ### Footer
-Last updated: November 2019 -->
+Last updated: February 2020 -->
 
 
