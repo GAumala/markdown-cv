@@ -137,7 +137,7 @@ Fixed a bug when parsing dates in file paths.
 `2014 - 2018`
 **Security Engineer [Criptext](https://criptext.com)**<br>
 I started working as an Android app developer using Kotlin & Java, designing the
-MvC app architecture.<br>
+MVC app architecture.<br>
 in 2018 I mostly maintained the HTTP API that powers all of Criptext clients using 
 Node.js, Go and MariaDB. I designed all the endpoints that clients use to communicate 
 securely using the [Signal Protocol](https://en.wikipedia.org/wiki/Signal_Protocol). 
