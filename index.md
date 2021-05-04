@@ -146,11 +146,19 @@ Whisper System's [Java library](https://github.com/signalapp/libsignal-protocol-
 I was also responsible for reviewing the code submitted by Android, Electron, 
 and backend developers, making sure that it remained maintainable and well tested.
 
-`2018 - now`
+`2018 - 2020`
 **Lead Android Developer [Technisys](https://www.technisys.com/)**<br>
-I develop banking apps for Android phones using [my own implementation](https://github.com/GAumala/mvi-android) of the MVI architecture in Java. Most of my time is spent writing code, but I also have to train the newer collaborators in the Android team by reviewing their pull requests, [writing articles](https://gaumala.com/posts/2019-04-30-writing-mvi-apps-in-android.html) and [giving talks](https://www.meetup.com/Guayaquil-Developers/events/262094535/).<br>
-Currently, I'm in charge of the new mobile app for one of the biggest banks in Argentina. 
+I developed banking apps for Android phones using [my own implementation](https://github.com/GAumala/mvi-android) of the MVI architecture in Java. Most of my time was spent writing code for the new mobile app of one of the biggest banks in Argentina, but I also had to train the newer collaborators in the Android team by reviewing their pull requests, [writing articles](https://gaumala.com/posts/2019-04-30-writing-mvi-apps-in-android.html) and [giving talks](https://www.meetup.com/Guayaquil-Developers/events/262094535/).<br>
+
+`2020 - 2021`
+**Android Developer [ITijuana](https://itjuana.com/)**<br>
+I developed Android apps and libraries to test more easily the next generation [OmniPod](https://www.omnipod.com/), an insulin management system that runs on an Android device.
+
+`2021 - now`
+**Android Developer [Albert](https://albert.com/)**<br>
+I work on the Albert Android app, which offers many features related to banking, savings, and investing.
+
 <!-- ### Footer
-Last updated: February 2020 -->
+Last updated: May 2021 -->
 
 
