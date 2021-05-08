@@ -14,7 +14,7 @@ Software developer
 
 ### Currently
 
-Full-time Android developer at [Technisys](https://www.technisys.com/).
+Full-time Android developer at [Albert](https://www.albert.com/).
 
 ### Skills
 
