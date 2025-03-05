@@ -20,14 +20,14 @@ Independent contractor.
 
 **Android** - Kotlin, Java, JUnit, SQLite, Room, Gradle, Coroutines.<br>
 **Front-end development** - HTML, CSS, JavaScript, ES6+, React.js, Jest, Webpack, Telegram mini apps<br>
-**Back-end development** - Node.js, MySQL, Postgres, Redis, Clojure, Go, Haskell, TypeScript, Docker, Linux, Bash.<br>
-**Electronics** - Arduino, Raspberry Pi, C, Python, MQTT.<br>
-**Security** - AES, RSA, Certificate Pinning. 
+**Back-end development** - Node.js, Clojure, Postgres, MySQL, Redis, Go, Haskell, TypeScript, Docker, Linux<br>
+**AI** - Integrations with Deepgram and Deepseek APIs<br>
+**Security** - AES, RSA, Certificate Pinning.
 
 ### Languages
 
 Español (Native)<br>
-English (Fluent)<br> 
+English (Fluent)<br>
 日本語 (JLPT N3)
 
 ### Interests
@@ -78,7 +78,7 @@ Model View Intent for native android apps using architecture components
 Offline-first Japanese dictionary Android app that lets users lookup words
 and example sentences.
 
-## Open Source 
+## Open Source
 
 `2016`
 **[create-react-app](https://github.com/facebookincubator/create-react-app/pull/1148)**
@@ -112,7 +112,7 @@ Fixed a bug when parsing dates in file paths.
 **[knex](https://github.com/knex/knex/pull/3569)**
 Allowed 'match' operator for SQLite queries.
 
-## Publications 
+## Publications
 
 `2019`
  G. Aumala, E. Boza, L. Aviles, G. Totoy and C. Abad, "Beyond Load Balancing:Package-Aware Scheduling for Serverless Platforms" in [CCGrid2019](https://www.ccgrid2019.org/)
@@ -123,12 +123,12 @@ Allowed 'match' operator for SQLite queries.
 **Security Engineer [Criptext](https://criptext.com)**<br>
 I started working as an Android app developer using Kotlin & Java, designing the
 MVC app architecture.<br>
-in 2018 I mostly maintained the HTTP API that powers all of Criptext clients using 
-Node.js, Go and MariaDB. I designed all the endpoints that clients use to communicate 
-securely using the [Signal Protocol](https://en.wikipedia.org/wiki/Signal_Protocol). 
-I implemented the Signal Protocol in Criptext's Android client using Open 
+in 2018 I mostly maintained the HTTP API that powers all of Criptext clients using
+Node.js, Go and MariaDB. I designed all the endpoints that clients use to communicate
+securely using the [Signal Protocol](https://en.wikipedia.org/wiki/Signal_Protocol).
+I implemented the Signal Protocol in Criptext's Android client using Open
 Whisper System's [Java library](https://github.com/signalapp/libsignal-protocol-java).<br>
-I was also responsible for reviewing the code submitted by Android, Electron, 
+I was also responsible for reviewing the code submitted by Android, Electron,
 and backend developers, making sure that it remained maintainable and well tested.
 
 `2018 - 2020`
@@ -143,19 +143,18 @@ giving talks](https://www.meetup.com/Guayaquil-Developers/events/262094535/).<br
 
 `2020 - 2021`
 **Android Developer [ITijuana](https://itjuana.com/)**<br>
-I developed Android apps and libraries to test more easily the next generation 
+I developed Android apps and libraries to test more easily the next generation
 [OmniPod](https://www.omnipod.com/), an insulin management system that runs on
 an Android device.
 
 `2021 - 2023`
 **Android Developer [Albert](https://albert.com/)**<br>
 I worked on the Albert Android app, which offers many features related to banking,
-savings, and investing. My duties here were developing new features and bug fixes. 
+savings, and investing. My duties here were developing new features and bug fixes.
 
 `2024 - now`
 **Independent contractor**<br>
-I have worked directly with a few clients here in Ecuador developing websites, Android
-apps and chatbots in Whatsapp and Telegram.
+I have worked directly with a few clients here in Ecuador developing web applications, Android apps, and chatbots in Whatsapp and Telegram. My most recent project was an Android app for a healthcare provider to transcribe patient data faster using AI.
 
 <!-- ### Footer
-Last updated: Sep 2024 -->
+Last updated: Feb 2025 -->
