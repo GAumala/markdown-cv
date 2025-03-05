@@ -123,7 +123,7 @@ Allowed 'match' operator for SQLite queries.
 **Security Engineer [Criptext](https://criptext.com)**<br>
 I started working as an Android app developer using Kotlin & Java, designing the
 MVC app architecture.<br>
-in 2018 I mostly maintained the HTTP API that powers all of Criptext clients using
+In 2018 I mostly maintained the HTTP API that powers all of Criptext clients using
 Node.js, Go and MariaDB. I designed all the endpoints that clients use to communicate
 securely using the [Signal Protocol](https://en.wikipedia.org/wiki/Signal_Protocol).
 I implemented the Signal Protocol in Criptext's Android client using Open
@@ -154,7 +154,12 @@ savings, and investing. My duties here were developing new features and bug fixe
 
 `2024 - now`
 **Independent contractor**<br>
-I have worked directly with a few clients here in Ecuador developing web applications, Android apps, and chatbots in Whatsapp and Telegram. My most recent project was an Android app for a healthcare provider to transcribe patient data faster using AI.
+I have worked directly with a few clients here in Ecuador writing software that can solve real world problems for small businesses. My experience in the past year includes:
 
+- Web applications written in Clojure or Node.js that store data securely in a PostgreSQL database
+- User interfaces in React.js (Web) or Kotlin (Android) using the latest technologies to improve user experience
+- Chatbots for WhatsApp and Telegram that integrate AI APIs like Deepseek to facilitate user input and add AI-powered capabilites.
+
+I have also designed and implemented Linux-based solutions using systemd and Docker to deploy and monitor these web applications, ensuring high uptime and reliability for end users.
 <!-- ### Footer
 Last updated: Feb 2025 -->
