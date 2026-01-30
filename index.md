@@ -8,21 +8,26 @@ Software developer
 <div id="webaddress">
 <a href="mailto:gaumala@protonmail.com">gaumala@protonmail.com</a>
 | <a href="https://github.com/GAumala">GitHub Profile</a>
-| <a href="https://gaumala.com">Blog</a>
+| <a href="https://aumala.dev">Blog</a>
 </div>
-
 
 ### Currently
 
-Independent contractor.
+**Independent Software Development Consultant** | Ecuador
+Provided full-stack development for local businesses, building systems to solve operational challenges.
 
-### Skills
+- **Full-Stack Development:** Built secure, data-driven web applications using Clojure/Node.js backends with PostgreSQL, and React.js frontends.
+- **Android Solutions:** Developed native Android applications in Kotlin to enhance client mobile workflows.
+- **DevOps & Deployment:** Architected Linux-based deployment pipelines using systemd and Docker, ensuring high uptime and reliability.
+- **Domain Expertise:** Implemented SRI (Ecuadorian Tax Authority) compliance for electronic tax voucher generation, signing, and encoding.
 
-**Android** - Kotlin, Java, JUnit, SQLite, Room, Gradle, Coroutines.<br>
-**Front-end development** - HTML, CSS, JavaScript, ES6+, React.js, Jest, Webpack, Telegram mini apps<br>
-**Back-end development** - Node.js, Clojure, Postgres, MySQL, Redis, Go, Haskell, TypeScript, Docker, Linux<br>
-**AI** - Integrations with Deepgram and Deepseek APIs<br>
-**Security** - AES, RSA, Certificate Pinning.
+### Technical Skills
+
+**Languages:** Clojure, Kotlin, Java, JavaScript, Go, Haskell, SQL
+**Frameworks & Libraries:** React, Node.js, Android SDK, Room, Coroutines, Tailwind
+**Systems & DevOps:** Linux, Docker, systemd, PostgreSQL, MySQL, Redis, SQLite
+**Security & Protocols:** Signal Protocol, XADES electronic signatures, AES/RSA encryption, TLS/HTTPS
+**Tools & Methods:** Git, Gradle, Webpack, JUnit, Agile/Scrum, Code Review, MVI/MVVM Architecture
 
 ### Languages
 
@@ -49,10 +54,6 @@ IB Diploma
 
 ## Projects
 
-`2016`
-**[MediaServer](https://github.com/GAumala/MediaServer)**
-Go Program that serves videos over my local network
-
 `2017`
 **[Facturacion](https://github.com/GAumala/Facturacion)**
 Invoice software for small businesses using React.js, Node.js and SQLite3
@@ -60,14 +61,6 @@ Invoice software for small businesses using React.js, Node.js and SQLite3
 `2017`
 **[red-black-tree](https://github.com/GAumala/red-black-tree)**
 "Red Black Tree" data structure implemented in Haskell
-
-`2018`
-**[KotlinSnapshot](https://github.com/Karumi/KotlinSnapshot)**
-Snapshot Testing framework for Kotlin, no longer maintained by me
-
-`2018`
-**[Blog](https://github.com/GAumala/Blog)**
-My personal blog ([https://gaumala.com](https://gaumala.com))
 
 `2019`
 **[mvi-android](https://github.com/GAumala/mvi-android)**
@@ -78,11 +71,12 @@ Model View Intent for native android apps using architecture components
 Offline-first Japanese dictionary Android app that lets users lookup words
 and example sentences.
 
-## Open Source
+`2024`
+**[SRI](https://github.com/GAumala/SRI)**
+A Clojure library to generate, digitally sign, and encode electronic tax 
+vouchers for Ecuador's tax authority (SRI).
 
-`2016`
-**[create-react-app](https://github.com/facebookincubator/create-react-app/pull/1148)**
-Added the option to configure which Browser to open when the dev server starts.
+## Open Source
 
 `2017`
 **[material-ui](https://github.com/callemall/material-ui/pull/7484)**
@@ -93,24 +87,20 @@ Fixed a bug in which the Table component was not rendering properly in Firefox.
 Fixed a bug that made the program crash when initializing in a machine without npm.
 
 `2018`
-**[yarn website](https://github.com/yarnpkg/website/pull/755)**
-Documented potential problems of publishing packages inside workspaces.
-
-`2018`
-**[yarn](https://github.com/yarnpkg/yarn/pull/5213)**
-Added a better error message when a package is not found.
-
-`2018`
-**[webpack](https://github.com/webpack/webpack.js.org/pull/2459)**
-Added a warning about the dev server in the documentation.
-
-`2018`
 **[hakyll](https://github.com/jaspervdj/hakyll/pull/666)**
 Fixed a bug when parsing dates in file paths.
 
 `2021`
 **[knex](https://github.com/knex/knex/pull/3569)**
 Allowed 'match' operator for SQLite queries.
+
+`2024`
+**[http-kit](https://github.com/http-kit/http-kit/pull/592)**
+Fixed a bug in which numbers were not encoded correctly in multipart entity requests.
+
+`2025`
+**[next-jdbc](https://github.com/seancorfield/next-jdbc/pull/300)**
+Fixed a bug in which the database returned nil for FALSE values in boolean columns.
 
 ## Publications
 
@@ -138,7 +128,7 @@ https://github.com/GAumala/mvi-android) of the MVI architecture in Java. Most
 of my time was spent writing code for the new mobile app of one of the biggest
 banks in Argentina, but I also had to train the newer collaborators in the
 Android team by reviewing their pull requests, [writing articles](
-https://gaumala.com/posts/2019-04-30-writing-mvi-apps-in-android.html) and [
+https://aumala.dev/posts/2019-04-30-writing-mvi-apps-in-android.html) and [
 giving talks](https://www.meetup.com/Guayaquil-Developers/events/262094535/).<br>
 
 `2020 - 2021`
@@ -153,13 +143,15 @@ I worked on the Albert Android app, which offers many features related to bankin
 savings, and investing. My duties here were developing new features and bug fixes.
 
 `2024 - now`
-**Independent contractor**<br>
-I have worked directly with a few clients here in Ecuador writing software that can solve real world problems for small businesses. My experience in the past year includes:
+**Independent Software Development Consultant**<br>
+Providing full-stack development and solutions for small businesses and local 
+companies in Ecuador. I specialize in building reliable, real-world applications
+that address specific operational challenges.
 
-- Web applications written in Clojure or Node.js that store data securely in a PostgreSQL database
-- User interfaces in React.js (Web) or Kotlin (Android) using the latest technologies to improve user experience
-- Chatbots for WhatsApp and Telegram that integrate AI APIs like Deepseek to facilitate user input and add AI-powered capabilites.
+Key projects and experience from the past year include:
 
-I have also designed and implemented Linux-based solutions using systemd and Docker to deploy and monitor these web applications, ensuring high uptime and reliability for end users.
+- Developing secure, data-driven web applications using Clojure and Node.js with PostgreSQL for robust data management.
+- Building intuitive user interfaces with React.js (Web) and Kotlin (Android) to enhance client workflow and end-user experience.
+- Architecting and maintaining deployment infrastructure using Linux, systemd, and Docker, ensuring high application uptime and reliability.
 <!-- ### Footer
-Last updated: Feb 2025 -->
+Last updated: Jan 2026 -->
