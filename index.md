@@ -13,7 +13,8 @@ Software developer
 
 ### Currently
 
-**Independent Software Development Consultant** | Ecuador
+**Independent Software Development Consultant**
+
 Provided full-stack development for local businesses, building systems to solve operational challenges.
 
 - **Full-Stack Development:** Built secure, data-driven web applications using Clojure/Node.js backends with PostgreSQL, and React.js frontends.
@@ -23,10 +24,10 @@ Provided full-stack development for local businesses, building systems to solve 
 
 ### Technical Skills
 
-**Languages:** Clojure, Kotlin, Java, JavaScript, Go, Haskell, SQL
-**Frameworks & Libraries:** React, Node.js, Android SDK, Room, Coroutines, Tailwind
-**Systems & DevOps:** Linux, Docker, systemd, PostgreSQL, MySQL, Redis, SQLite
-**Security & Protocols:** Signal Protocol, XADES electronic signatures, AES/RSA encryption, TLS/HTTPS
+**Languages:** Clojure, Kotlin, Java, JavaScript, Go, Haskell, SQL<br>
+**Frameworks & Libraries:** React, Node.js, Android SDK, Room, Coroutines, Tailwind<br>
+**Systems & DevOps:** Linux, Docker, systemd, PostgreSQL, MySQL, Redis, SQLite<br>
+**Security & Protocols:** Signal Protocol, XADES electronic signatures, AES/RSA encryption, TLS/HTTPS<br>
 **Tools & Methods:** Git, Gradle, Webpack, JUnit, Agile/Scrum, Code Review, MVI/MVVM Architecture
 
 ### Languages
@@ -142,16 +143,5 @@ an Android device.
 I worked on the Albert Android app, which offers many features related to banking,
 savings, and investing. My duties here were developing new features and bug fixes.
 
-`2024 - now`
-**Independent Software Development Consultant**<br>
-Providing full-stack development and solutions for small businesses and local 
-companies in Ecuador. I specialize in building reliable, real-world applications
-that address specific operational challenges.
-
-Key projects and experience from the past year include:
-
-- Developing secure, data-driven web applications using Clojure and Node.js with PostgreSQL for robust data management.
-- Building intuitive user interfaces with React.js (Web) and Kotlin (Android) to enhance client workflow and end-user experience.
-- Architecting and maintaining deployment infrastructure using Linux, systemd, and Docker, ensuring high application uptime and reliability.
 <!-- ### Footer
 Last updated: Jan 2026 -->
