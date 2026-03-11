@@ -15,17 +15,18 @@ Desarrollador de Software
 
 **Consultor Independiente de Desarrollo de Software**
 
-Brindé desarrollo full-stack para empresas locales, construyendo sistemas para resolver desafíos operativos.
+Brindo desarrollo full-stack para empresas locales, construyendo sistemas para resolver desafíos operativos.
 
-- **Desarrollo Full-Stack:** Construí aplicaciones web seguras y basadas en datos usando backends en Clojure/Node.js con PostgreSQL y frontends en React.js y Tailwind.
-- **Soluciones Android:** Desarrollé aplicaciones nativas para Android en Kotlin para optimizar los flujos de trabajo móviles de los clientes.
-- **DevOps e Implementación:** Diseñé pipelines de despliegue basados en Linux usando systemd y Docker, asegurando alta disponibilidad y confiabilidad.
-- **Especialización de Dominio:** Implementé la normativa del SRI (Servicio de Rentas Internas de Ecuador) para la generación, firma y codificación de comprobantes electrónicos.
+- **Desarrollo Full-Stack:** Elaboración de aplicaciones web seguras y basadas en datos usando backends en Clojure/Node.js/Go/Python con PostgreSQL y frontends en React.js y Tailwind.
+- **Soluciones Android:** Desarrollo de aplicaciones nativas para Android en Kotlin para optimizar los flujos de trabajo en dispositivos móviles de los clientes.
+- **DevOps e Implementación:** Diseño de pipelines de despliegue basados en Linux usando systemd y Docker, asegurando alta disponibilidad y confiabilidad.
+- **Especialización de Dominio:** Implementación de la normativa del SRI (Servicio de Rentas Internas de Ecuador) para la generación, firma y codificación de comprobantes electrónicos.
+- **Inteligencia Artificial:** Configuración y mantenimiento de instancias de OpenClaw para ejecutar agentes en distintas tareas y automatizaciones; integración de aplicaciones con APIs de LLM (DeepSeek, OpenAI, Deepgram, Claude).
 
 ### Habilidades Técnicas
 
-**Lenguajes:** Clojure, Kotlin, Java, JavaScript, Go, Haskell, SQL<br>
-**Frameworks y Librerías:** React, Node.js, Android SDK, Room, Coroutines, Tailwind<br>
+**Lenguajes:** Clojure, Kotlin, Java, JavaScript, Go, Python, SQL<br>
+**Frameworks y Librerías:** React, Node.js, Django, Android SDK, Room, Coroutines, Tailwind<br>
 **Sistemas y DevOps:** Linux, Docker, systemd, PostgreSQL, MySQL, Redis, SQLite<br>
 **Seguridad y Protocolos:** firmas electrónicas XADES, encriptación AES/RSA, TLS/HTTPS<br>
 **Herramientas y Métodos:** Git, Gradle, Webpack, JUnit, Agile/Scrum, Revisión de Código, Arquitectura MVI/MVVM
@@ -121,4 +122,4 @@ Desarrollé aplicaciones y librerías Android para probar más fácilmente la nu
 
 `2021 - 2023`
 **Desarrollador Android [Albert](https://albert.com/)**<br>
-Trabajé en la aplicación Albert para Android, que ofrece muchas funciones relacionadas con la banca, el ahorro y la inversión. Mis responsabilidades aquí fueron desarrollar nuevas funciones y corregir errores.
+Desarrollé principalmente la aplicación Albert para Android (banca, ahorro e inversión) en Kotlin: implementando nuevas funcionalidades, corrigiendo errores y manteniendo la calidad del código. También contribuí al backend en Django que alimenta la aplicación móvil, haciendo entregas full-stack en móvil y web.
